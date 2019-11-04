@@ -5,7 +5,7 @@
 This app is intended for use with the Sparta Global Devops Stream as a sample app. You can clone the repo and use it as is but no changes will be accepted on this branch.
 
 
-Test 1
+Test 1.
 
 To use the repo within your course you should fork it.
 
