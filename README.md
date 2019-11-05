@@ -6,6 +6,7 @@ This app is intended for use with the Sparta Global Devops Stream as a sample ap
 
 
 Test 2
+Test 3
 
 To use the repo within your course you should fork it.
 
